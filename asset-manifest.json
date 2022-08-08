@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/hee5ni-app-static/static/css/main.ac9e8a81.css",
-    "main.js": "/hee5ni-app-static/static/js/main.1a23f2e5.js",
+    "main.js": "/hee5ni-app-static/static/js/main.c4011a4f.js",
     "static/js/27.702c6438.chunk.js": "/hee5ni-app-static/static/js/27.702c6438.chunk.js",
     "index.html": "/hee5ni-app-static/index.html"
   },
   "entrypoints": [
     "static/css/main.ac9e8a81.css",
-    "static/js/main.1a23f2e5.js"
+    "static/js/main.c4011a4f.js"
   ]
 }
