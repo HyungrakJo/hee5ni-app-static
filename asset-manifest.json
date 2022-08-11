@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hee5ni-app-static/static/css/main.ac9e8a81.css",
-    "main.js": "/hee5ni-app-static/static/js/main.f9d33b8a.js",
+    "main.js": "/hee5ni-app-static/static/js/main.564762d6.js",
     "static/js/27.702c6438.chunk.js": "/hee5ni-app-static/static/js/27.702c6438.chunk.js",
     "static/media/bruise2.png": "/hee5ni-app-static/static/media/bruise2.c0c728a8b932ce522ea2.png",
     "static/media/bruise1.png": "/hee5ni-app-static/static/media/bruise1.ae2038fae5fe85dd5d80.png",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.ac9e8a81.css",
-    "static/js/main.f9d33b8a.js"
+    "static/js/main.564762d6.js"
   ]
 }
